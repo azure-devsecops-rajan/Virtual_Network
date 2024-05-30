@@ -1,5 +1,0 @@
-variable "vnet_map" {
-
-
-    
-}
