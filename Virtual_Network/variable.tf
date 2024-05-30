@@ -1,1 +1,5 @@
-variable "vnet_map" {}
+variable "vnet_map" {
+
+
+    
+}
